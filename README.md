@@ -2,6 +2,6 @@
 
 - 👋 Hi, I’m @Myk0992
 - 👀 I’m interested in Cyber security and networking 
-- 🌱 I’m currently learning the associate degree cyber security 
+- 🌱 I’m currently learning for a associate degree cyber security 
 - ✒️ Coding only in python but want to learn more
 - 🐌 Goals are my degree and the CCNA certification 
